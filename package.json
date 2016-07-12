@@ -27,6 +27,7 @@
     "stream-browserify": "^1.0.0"
   },
   "scripts": {
+    "build": "gulp compile",
     "test": "gulp test"
   },
   "repository": {
