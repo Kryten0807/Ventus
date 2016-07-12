@@ -3,6 +3,9 @@
   "version": "0.2.1",
   "description": "A window manager written in Javascript, HTML5 and CSS3",
   "main": "./src/ventus.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
   "private": true,
   "dependencies": {},
   "devDependencies": {
