@@ -27,5 +27,15 @@
   },
   "scripts": {
     "test": "gulp test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kryten0807/Ventus.git"
+  },
+  "author": "rlamana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kryten0807/Ventus/issues"
+  },
+  "homepage": "https://github.com/Kryten0807/Ventus#readme"
 }
